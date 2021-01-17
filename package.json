@@ -1,0 +1,27 @@
+{
+  "name": "Artisfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoKraenau/Artisfy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoKraenau/Artisfy/issues"
+  },
+  "homepage": "https://github.com/DiegoKraenau/Artisfy#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "parser": "^0.1.4",
+    "sequelize": "^6.3.5"
+  }
+}
